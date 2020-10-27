@@ -1,0 +1,21 @@
+button {
+  color: white;
+  background-color: #025157;
+  border-radius: 5px;
+  border-color: #025157;
+}
+
+h1 {
+  color: #025157;
+}
+
+p {
+  color: #46484c;
+}
+strong {
+  color: #8b8b8bcc;
+}
+
+body {
+  background-color: #fffbf7;
+}
